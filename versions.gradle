@@ -1,0 +1,42 @@
+//https://developer.android.com/jetpack/androidx/releases/room
+ext.room_version = '2.3.0'
+//https://github.com/google/gson/blob/master/CHANGELOG.md
+ext.gson_version = '2.8.7'
+//https://developer.android.com/jetpack/androidx/releases/hilt?hl=es-419
+ext.hilt_version = "1.0.0"
+//https://github.com/google/dagger/releases
+ext.dagger_version = '2.37'
+//https://developer.android.com/jetpack/androidx/releases/compose#versions
+ext.compose = "1.0.4"
+//https://github.com/square/picasso/blob/master/CHANGELOG.md
+ext.picasso_version = '2.71828'
+//https://developer.android.com/jetpack/androidx/releases/swiperefreshlayout
+ext.swipe_refresh = '1.1.0'
+//https://developer.android.com/jetpack/androidx/releases/paging
+ext.paging_version = "3.0.1"
+//https://github.com/Kotlin/kotlinx.coroutines/releases
+ext.coroutines_version = '1.5.2'
+//https://mvnrepository.com/artifact/androidx.core/core-ktx/1.6.0-alpha03
+ext.core = "1.6.0"
+//https://developer.android.com/jetpack/androidx/releases/appcompat
+ext.app_compat = "1.3.1"
+//https://github.com/material-components/material-components-android/releases
+ext.material = "1.4.0"
+//https://developer.android.com/jetpack/androidx/releases/constraintlayout
+ext.constrain = "2.1.1"
+//https://developer.android.com/jetpack/androidx/releases/navigation
+ext.navigation = "2.3.5"
+//https://developer.android.com/jetpack/androidx/releases/lifecycle
+ext.life_cycle = "2.4.0"
+//https://mvnrepository.com/artifact/com.squareup.retrofit2/retrofit/2.6.0
+ext.retrofit = "2.6.0"
+//https://mvnrepository.com/artifact/com.squareup.okhttp3/logging-interceptor
+ext.interceptor = "4.5.0"
+//https://mvnrepository.com/artifact/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.8
+ext.coroutines_core = "1.3.8"
+//https://mvnrepository.com/artifact/org.jetbrains.kotlinx/kotlinx-coroutines-core
+ext.coroutines_android = "1.3.5"
+//https://mvnrepository.com/artifact/androidx.lifecycle/lifecycle-viewmodel-ktx?repo=google
+ext.lifecycle_viewmodel = "2.3.1"
+//https://mvnrepository.com/artifact/io.ktor/ktor-client-core?repo=kotlin-ktor
+ext.ktor = "1.6.5"
